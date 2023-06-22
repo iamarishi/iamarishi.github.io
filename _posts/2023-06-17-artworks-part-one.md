@@ -20,10 +20,6 @@ categories: artwork
 
 <center><hr></center>
 
-<img src="{{site.baseurl}}/assets/artworks/5_9153304882747575052_n_1080.jpg">
-
-<center><hr></center>
-
 <img src="{{site.baseurl}}/assets/artworks/6_9153304882747575052_n_1080.jpg">
 
 <center><hr></center>
