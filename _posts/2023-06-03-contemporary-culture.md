@@ -4,7 +4,7 @@ title: "The Aesthetics of Contemporary Culture"
 categories: art
 ---
 
-Contemporary culture is a dynamic tapestry woven with threads of popular media, advertising, consumerism, globalization, and the intermingling of high and low culture. As a highly educated PhD student of Stanford, I aim to delve into the intricate relationship between these elements and their impact on artistic expression and aesthetics. By examining the role of popular media and advertising in shaping contemporary culture, this essay seeks to illuminate the profound influence they exert on artistic practices, while also exploring the underlying implications of consumerism and globalization in this context.
+Contemporary culture is a dynamic tapestry woven with threads of popular media, advertising, consumerism, globalization, and the intermingling of high and low culture.
 
 
 ### Consumerism and Artistic Expression
