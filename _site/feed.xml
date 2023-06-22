@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rishi Giri</title>
+    <description>Code / Art</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Jun 2023 14:31:09 +0530</pubDate>
+    <lastBuildDate>Thu, 22 Jun 2023 14:31:09 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      
+        <item>
+          
+            <title>Divergent Masterpieces: Exploring Picasso's Les Demoiselles d'Avignon and Hokusai's The Great Wave off Kanagawa</title>
+          
+          <author>rushforlinux@gmail.com (Rishi Giri)</author>
+          <description>
+            &lt;p&gt;Pablo Picasso’s “Les Demoiselles d’Avignon” and Katsushika Hokusai’s “The Great Wave off Kanagawa” are iconic works that showcase the artists’ unique styles and explore various themes. This post aims to delve into the artistic techniques, subjects, and historical contexts of these two masterpieces. By examining the artists’ use of color, composition, cultural influences, and societal implications, we can gain a deeper understanding of the profound impact these paintings had on the art world and the broader cultural landscape during their respective periods.&lt;/p&gt;
+
+&lt;h3 id=&quot;stylistic-approaches&quot;&gt;Stylistic Approaches&lt;/h3&gt;
+&lt;p&gt;Pablo Picasso’s groundbreaking painting, “Les Demoiselles d’Avignon,” executed in 1907 during the nascent stages of the Cubist movement, brought about a seismic shift in the realm of art with its fragmented forms and multiplicity of perspectives. Abandoning the constraints of traditional perspective and anatomical accuracy, Picasso presents the viewer with a collective of female figures rendered in a geometric and angular manner. The artist’s deft utilization of sharp lines and vibrant hues, predominantly blues and pinks, further enhances the artwork’s expressive potency and emotional fervor. In stark contrast to Picasso’s avant-garde approach, Katsushika Hokusai’s “The Great Wave off Kanagawa” embodies the time-honored Japanese ukiyo-e woodblock print technique. Dating back to approximately 1830, this masterpiece encapsulates the raw might of nature through its towering waves and evocative composition. Hokusai employs fastidious line work, intricate detailing, and a restrained color palette, characterized by indigo and white tones, to portray the grandeur of the colossal wave and the presence of Mount Fuji in the background. The delicate equilibrium between abstraction and realism that permeates Hokusai’s distinctive style attests to his consummate mastery of the traditional Japanese printmaking tradition, thus exemplifying his artistic prowess and virtuosity.&lt;/p&gt;
+
+&lt;h3 id=&quot;themes-explored&quot;&gt;Themes Explored&lt;/h3&gt;
+&lt;p&gt;Pablo Picasso’s seminal work, “Les Demoiselles d’Avignon,” delves into the intricate themes of sexuality, power dynamics, and the portrayal of women within the realm of art. Through the deconstruction of the female form, Picasso challenges established notions of beauty by presenting a confrontational and primal image. The painting’s fragmented bodies and angular contours evoke an inherent sense of tension and ambiguity, effectively inviting viewers to critically examine conventional ideals of femininity. “Les Demoiselles d’Avignon” also serves as a reflection of Picasso’s engagement with non-Western art forms, evident in the influence of African masks and ancient Iberian sculpture, thus symbolizing his intention to break free from the confines of Eurocentric aesthetics.&lt;/p&gt;
+
+&lt;p&gt;In stark contrast, Katsushika Hokusai’s “The Great Wave off Kanagawa” embodies profound themes encompassing the power of nature, human vulnerability, and the ephemeral nature of existence. Hokusai’s depiction of a colossal wave menacing fragile boats encapsulates the capricious force inherent in nature and the inherent precariousness of human life. Symbolically, the imposing wave conveys both awe-inspiring beauty and the potential for destructive forces, thereby underscoring the transient essence of life when faced with elemental powers. Additionally, the presence of Mount Fuji in the background serves as an enduring symbol of Japanese national identity and cultural resilience, further deepening the thematic significance of the artwork.&lt;/p&gt;
+
+&lt;h3 id=&quot;historical-contexts&quot;&gt;Historical Contexts&lt;/h3&gt;
+
+&lt;p&gt;“Les Demoiselles d’Avignon” emerged during a period of artistic and cultural upheaval in early 20th-century Europe. Picasso, along with Georges Braque, pioneered the Cubist movement, which sought to deconstruct and reassemble reality through multiple perspectives. This artistic revolution was a response to the changing social and political landscape, marked by the decline of traditional values and the onset of modernity. Picasso’s exploration of African and Iberian art in “Les Demoiselles d’Avignon” reflects the growing interest in non-Western cultures, influenced by the expansion of colonialism and the exploration of primitivism in art.&lt;/p&gt;
+
+&lt;p&gt;Hokusai’s “The Great Wave off Kanagawa” belongs to the ukiyo-e tradition, which flourished during the Edo period in Japan (1603-1868). This period was characterized by relative political stability and a thriving merchant class, leading to the development of a vibrant urban culture. Ukiyo-e prints, like Hokusai’s masterpiece, were accessible to a wide range of people and captured popular subjects such as landscapes, daily life, and entertainment. “The Great Wave off Kanagawa” epitomizes the fascination with nature and the ocean prevalent in Japanese art and literature, while also reflecting the nation’s precarious relationship with the surrounding seas.&lt;/p&gt;
+
+&lt;h3&gt;…&lt;/h3&gt;
+
+&lt;p&gt;Both Picasso’s “Les Demoiselles d’Avignon” and Hokusai’s “The Great Wave off Kanagawa” showcase the artists’ profound exploration of these themes within their respective works. Their artistic visions transcend conventional boundaries, captivating viewers and leaving an indelible mark on the art world. Through their provocative and introspective masterpieces, Picasso and Hokusai invite contemplation on the complexities of human existence, the portrayal of gender, and the awe-inspiring power of nature, enriching our understanding of art’s profound impact on society and cultural expression&lt;/p&gt;
+
+          </description>
+          <pubDate>Thu, 15 Jun 2023 00:00:00 +0530</pubDate>
+          <link>http://localhost:4000/art/2023/06/15/picasso-hokusai.html</link>
+          <guid isPermaLink="true">http://localhost:4000/art/2023/06/15/picasso-hokusai.html</guid>
+          
+          
+          <category>art</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>Modern Art Through the Lens of a Programmer</title>
+          
+          <author>rushforlinux@gmail.com (Rishi Giri)</author>
+          <description>
+            &lt;p&gt;In the ever-evolving digital era, the intersection of art and technology has given rise to a new realm of creative expression. From a programmer’s perspective, modern art presents a fascinating canvas that merges the worlds of code and aesthetics. This essay aims to explore modern art through the lens of a programmer, delving into the unique challenges, innovative approaches, and the symbiotic relationship between technology and artistic vision.&lt;/p&gt;
+
+&lt;p&gt;Modern art emerged as a transformative movement in the late 19th and early 20th centuries, marking a departure from traditional artistic styles and embracing innovation, experimentation, and unconventional approaches. Artists sought to break free from the constraints of classical aesthetics and explore new realms of self-expression. From the vibrant colors of Fauvism to the abstract forms of Cubism, modern art challenged traditional notions of representation and pushed the boundaries of artistic creation.&lt;/p&gt;
+
+&lt;p&gt;The introduction of digital technologies had a profound impact on artistic creation and expression. Artists found themselves equipped with new tools and techniques, enabling them to explore concepts and ideas that were previously unattainable. Digital mediums facilitated experimentation, enabling artists to manipulate images, combine various artistic elements, and create dynamic multimedia artworks. The interactive nature of digital art allowed viewers to engage actively with the artwork, transforming the traditional passive viewer into an active participant. This shift in artistic creation and expression opened up new possibilities for artists to communicate their ideas, challenge conventions, and connect with a wider audience. The technological shift in modern art not only revolutionized the artistic process but also expanded the definition of what art could be, embracing the fusion of technology, creativity, and imagination.&lt;/p&gt;
+
+&lt;p&gt;Embracing digital platforms and virtual spaces has revolutionized the art world, offering artists unprecedented opportunities for creative exploration. Online galleries, art marketplaces, and social media platforms have become invaluable channels for artists to exhibit their work to a global audience, transcending geographical limitations. This accessibility has democratized the art industry, allowing emerging artists to gain exposure and recognition while diversifying the art scene.&lt;/p&gt;
+
+&lt;p&gt;Virtual spaces, enabled by technologies such as virtual reality (VR) and augmented reality (AR), have opened up new dimensions for artistic expression. Artists can create immersive and interactive installations, blurring the boundaries between the physical and digital realms. Viewers can engage with art in ways previously unimaginable, becoming active participants in the artistic experience.&lt;/p&gt;
+
+&lt;p&gt;As the digital landscape continues to evolve, embracing digital platforms and virtual spaces will remain crucial for artists to expand their reach, experiment with new mediums, and engage with audiences in innovative ways. The intersection of art and technology presents a realm of boundless potential, where creativity and digital innovation intertwine to shape the future of artistic expression.&lt;/p&gt;
+
+&lt;h3 id=&quot;challenges-and-opportunities-for-programmers-in-modern-art&quot;&gt;Challenges and Opportunities for Programmers in Modern Art&lt;/h3&gt;
+
+&lt;p&gt;Programmers engaged in the domain of modern art face the daunting challenge of maintaining a delicate equilibrium between technical prowess and artistic intuition. Their expertise in coding is complemented by a deep understanding and appreciation of the artistic vision behind each project. It is their responsibility to translate creative concepts into functional code, ensuring that the technology not only supports but also amplifies the artistic expression. Successful programmers in modern art navigate this challenge by embracing interdisciplinary knowledge, actively collaborating with artists, and continuously refining their technical skills while nurturing their artistic sensibilities.&lt;/p&gt;
+
+&lt;p&gt;To excel in this field, programmers must cultivate a diverse skill set that extends beyond traditional programming expertise. They immerse themselves in art theory, aesthetics, and creative processes, developing a nuanced understanding of the underlying concepts. By fostering collaborations with artists, curators, and other creative professionals, programmers gain valuable insights into the artistic vision, aligning their technical contributions with the overall aesthetic and conceptual framework. This collaborative environment nurtures collective inspiration and fosters innovative ideas.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, programmers strive for continuous learning, staying abreast of technological advancements relevant to modern art. By mastering new programming languages, tools, and frameworks, they empower themselves to bring ambitious artistic visions to life.&lt;/p&gt;
+
+&lt;h3 id=&quot;blurring-boundaries-from-art-to-technology-and-vice-versa&quot;&gt;Blurring Boundaries: From Art to Technology and Vice Versa&lt;/h3&gt;
+
+&lt;p&gt;The intersection of art and technology in the contemporary creative landscape has resulted in a fascinating confluence, blurring the traditional boundaries that once separated these disciplines. This symbiotic relationship has engendered a profound transformation, fundamentally altering artistic expression and reshaping audience engagement. The interplay between art and technology has not only expanded the realm of artistic possibilities but has also redefined our perception of art itself.&lt;/p&gt;
+
+&lt;p&gt;Artists, driven by an insatiable curiosity and a desire to push the boundaries of their craft, have embraced technology as a powerful tool for creative exploration. By harnessing digital tools, software, and interactive mediums, artists transcend the confines of traditional art forms, venturing into uncharted territories. Immersive virtual reality experiences, interactive installations, augmented reality showcases, and digital media have become integral components of contemporary artistic practice, offering audiences unprecedented avenues for engagement and interaction.&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, technology has undergone a profound metamorphosis under the influence of artistic endeavors. Artists, with their imaginative approaches and unique perspectives, have challenged the limitations of technology, inspiring engineers and developers to reimagine its capabilities. The pursuit of artistic excellence has propelled technological innovations, fostering advancements in areas such as motion capture, visual effects, and virtual reality technologies. The infusion of artistry into technology has revolutionized its potential, injecting aesthetic sensibilities and emotional resonance into its functionalities.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the convergence of art and technology has spurred interdisciplinary collaborations, uniting artists and technologists in the pursuit of groundbreaking experiences. By merging artistic sensibilities with technical expertise, these collaborations transcend traditional disciplinary boundaries, creating transformative projects that defy categorization. Artists and technologists together unravel new possibilities, constructing immersive environments and pushing the limits of creativity.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, the blurring boundaries between art and technology have unleashed a remarkable era of creative exploration and interdisciplinary collaboration. This convergence has redefined the landscape of artistic expression, catalyzing innovation and transforming the way audiences experience and perceive art. As art continues to shape technology and technology continues to inspire new artistic frontiers, the potential for pushing the boundaries of human imagination and reimagining the future of creative expression remains boundless.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The symbiotic relationship between art and technology continues to evolve, opening up new horizons for creativity, interdisciplinary collaborations, and immersive artistic experiences. As we navigate this ever-evolving landscape, the fusion of art and technology will undoubtedly shape the future of artistic expression, captivating audiences and inspiring new forms of human connection and understanding.&lt;/em&gt;&lt;/p&gt;
+
+          </description>
+          <pubDate>Sat, 10 Jun 2023 00:00:00 +0530</pubDate>
+          <link>http://localhost:4000/art/2023/06/10/art-and-code.html</link>
+          <guid isPermaLink="true">http://localhost:4000/art/2023/06/10/art-and-code.html</guid>
+          
+          
+          <category>art</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>The Aesthetics of Contemporary Culture</title>
+          
+          <author>rushforlinux@gmail.com (Rishi Giri)</author>
+          <description>
+            &lt;p&gt;Contemporary culture is a dynamic tapestry woven with threads of popular media, advertising, consumerism, globalization, and the intermingling of high and low culture. As a highly educated PhD student of Stanford, I aim to delve into the intricate relationship between these elements and their impact on artistic expression and aesthetics. By examining the role of popular media and advertising in shaping contemporary culture, this essay seeks to illuminate the profound influence they exert on artistic practices, while also exploring the underlying implications of consumerism and globalization in this context.&lt;/p&gt;
+
+&lt;h3 id=&quot;consumerism-and-artistic-expression&quot;&gt;Consumerism and Artistic Expression&lt;/h3&gt;
+
+&lt;p&gt;Consumerism, as a defining characteristic of contemporary culture, has significantly influenced artistic expression and aesthetics. The rise of consumer culture has created an environment where individuals are incessantly bombarded with advertising messages, commodified desires, and the allure of material possessions. Consequently, artists have not remained immune to this pervasive influence. Artistic creations, whether in visual arts, music, or literature, frequently engage with consumerist themes, critiquing or embracing the commodification of everyday life.&lt;/p&gt;
+
+&lt;p&gt;Artists often employ various techniques to subvert and interrogate consumer culture. Through their works, they challenge the status quo, critique mass production and consumption, and invite viewers to question the values propagated by advertising. Examples can be seen in the works of contemporary artists like Banksy, who uses his street art to comment on consumerism, social inequality, and the dehumanization of modern society. By appropriating the language and visual aesthetics of advertising, artists can ingeniously challenge the notion of art as a commodity while engaging in cultural discourse.&lt;/p&gt;
+
+&lt;h3 id=&quot;globalization-and-the-blurring-of-boundaries&quot;&gt;Globalization and the Blurring of Boundaries&lt;/h3&gt;
+
+&lt;p&gt;Globalization, with its accelerated flow of information, people, and cultural artifacts, has played a pivotal role in shaping the aesthetics of contemporary culture. The cultural exchange facilitated by globalization has led to the blurring of boundaries between various artistic forms, as well as the fusion of high and low culture. Traditional hierarchies between art forms and genres have become less defined, resulting in a rich amalgamation of influences and artistic expressions.&lt;/p&gt;
+
+&lt;p&gt;In the realm of visual arts, the emergence of street art and graffiti as recognized forms of artistic expression exemplifies the dissolution of boundaries. These once marginalized art forms have gained prominence, challenging the hegemony of traditional art spaces and aesthetics. Simultaneously, contemporary advertising and popular media have embraced elements of artistic expression, appropriating visual styles and techniques borrowed from the art world to captivate and engage audiences.&lt;/p&gt;
+
+&lt;p&gt;The influence of popular media and advertising on aesthetics can also be observed in the music industry, where genres are increasingly blending and hybridizing, often borrowing from diverse cultural traditions. This cross-pollination of sounds and styles has given rise to new genres and subcultures, forging unique aesthetic experiences that resonate with global audiences.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-and-conclusion&quot;&gt;Implications and Conclusion&lt;/h3&gt;
+
+&lt;p&gt;The aesthetics of contemporary culture, shaped by the influence of popular media, advertising, consumerism, and globalization, present both opportunities and challenges for artistic expression. On one hand, the integration of advertising aesthetics and popular media techniques has democratized art, making it more accessible and relatable to a wider audience. It has also opened up new avenues for artists to engage with societal issues, provoke critical thought, and challenge dominant narratives.&lt;/p&gt;
+
+&lt;p&gt;However, the proliferation of consumer culture and the commodification of art raise concerns about the co-optation and dilution of artistic integrity. The increasing reliance on commercial endorsements and sponsorship can potentially compromise artistic freedom and authenticity, leading to a homogenization of artistic expression.&lt;/p&gt;
+
+&lt;p&gt;The aesthetics of contemporary culture are inextricably linked to the influence of popular media, advertising, consumerism, globalization, and the blurring of boundaries between high and low culture. While artists navigate this complex landscape, they continue to harness the power of aesthetics to provoke, critique, and reflect the multifaceted nature of our contemporary existence. By critically examining and engaging with these dynamics, artists contribute to a deeper understanding of the world we inhabit, challenging our perceptions, and inspiring new artistic possibilities.&lt;/p&gt;
+
+          </description>
+          <pubDate>Sat, 03 Jun 2023 00:00:00 +0530</pubDate>
+          <link>http://localhost:4000/art/2023/06/03/contemporary-culture.html</link>
+          <guid isPermaLink="true">http://localhost:4000/art/2023/06/03/contemporary-culture.html</guid>
+          
+          
+          <category>art</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>The Interplay of Art and Politics</title>
+          
+          <author>rushforlinux@gmail.com (Rishi Giri)</author>
+          <description>
+            &lt;p&gt;The intricate relationship between art and politics has been a subject of scholarly inquiry for centuries. As a medium of expression, art has the power to capture the zeitgeist of a society, reflecting the values, aspirations, and struggles of its time. Likewise, political ideologies have often permeated artistic movements, shaping their thematic concerns, aesthetic choices, and even their very existence. In this essay, we will delve into the historical tapestry of art as a tool for political expression, and the profound impact political ideologies have exerted on artistic movements. By examining various historical contexts, we aim to elucidate the multifaceted dynamics between art and politics, illuminating the complex interplay between creativity and socio-political discourse.&lt;/p&gt;
+
+&lt;p&gt;Throughout history, art has functioned as a means of political expression, providing a platform for dissent, critique, and advocacy. From ancient civilizations to contemporary societies, artists have used their craft to engage with political realities, challenging established power structures and amplifying marginalized voices. One notable example is the art of ancient Egypt, which served as a medium for propagating the divine authority of pharaohs and endorsing political stability. Simultaneously, ancient Greek art, particularly during the Golden Age, reflected the nascent democratic ideals and humanistic values that underpinned Athenian society.&lt;/p&gt;
+
+&lt;p&gt;In Renaissance Europe, art became entwined with political power, as patrons and rulers commissioned works to project their authority and legitimacy. The Medici family in Florence, for instance, employed artists such as Michelangelo and Botticelli to create masterpieces that embellished their political influence and cultivated a favorable public image. The Counter-Reformation, a political and religious movement, significantly influenced artistic production during the 16th and 17th centuries, as the Catholic Church sought to combat the spread of Protestantism by commissioning art that conveyed its doctrines with fervor and emotional impact.&lt;/p&gt;
+
+&lt;p&gt;The rise of political ideologies during the modern era unleashed a torrent of artistic movements deeply intertwined with socio-political realities. The Enlightenment, characterized by rationalism, individualism, and the pursuit of human rights, fostered artistic expressions that challenged traditional authority and championed secularism. This era witnessed the emergence of political satires, political caricatures, and social commentary in the visual arts, providing a platform for criticism and mockery of the ruling elite.&lt;/p&gt;
+
+&lt;p&gt;The 19th century saw the convergence of art and politics reach new heights with the advent of Realism. Artists such as Gustave Courbet and Édouard Manet rejected the romantic idealization of subjects, instead depicting the harsh realities of contemporary society, including poverty, inequality, and political corruption. Realism reflected the growing discontent among artists and intellectuals, who sought to expose the social injustices perpetuated by industrialization and unfettered capitalism.&lt;/p&gt;
+
+&lt;p&gt;In the early 20th century, the revolutionary fervor of political ideologies such as Marxism and anarchism deeply influenced artistic movements. The Russian Revolution of 1917, for instance, engendered a surge of artistic experimentation and innovation as artists sought to redefine the purpose and function of art in service of the proletariat. The Constructivist movement, led by artists like Vladimir Tatlin, sought to merge art and industrial design to create utilitarian objects that would transform society.&lt;/p&gt;
+
+&lt;p&gt;Art and politics have been inextricably linked throughout history, with art serving as a powerful tool for political expression and ideologies shaping artistic movements. Whether as a medium for advocacy, a vehicle for social critique, or a manifestation of political power, art has the potential to both reflect and shape the socio-political landscape. The interplay between art and politics is a dynamic and evolving phenomenon, constantly influenced by the prevailing political ideologies and the artists who seek to challenge or reinforce them. As scholars and observers, it is crucial to recognize and appreciate the profound impact of this relationship, as it enriches our understanding of both art and politics, offering a unique lens through which to explore the human experience.&lt;/p&gt;
+
+          </description>
+          <pubDate>Sun, 21 May 2023 00:00:00 +0530</pubDate>
+          <link>http://localhost:4000/art/2023/05/21/art-and-politics.html</link>
+          <guid isPermaLink="true">http://localhost:4000/art/2023/05/21/art-and-politics.html</guid>
+          
+          
+          <category>art</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>The Significance of Studying Art: Illuminating Humanity's Essence</title>
+          
+          <author>rushforlinux@gmail.com (Rishi Giri)</author>
+          <description>
+            &lt;p&gt;Art, as a profound expression of human creativity, holds immense significance in our lives and society as a whole. It possesses the power to enrich and transform the lives of individuals beyond the realm of artists alone. The study of art is a gateway to a deeper understanding and appreciation of diverse cultures and histories. Through artistic masterpieces, we gain insight into the complexities and nuances of human existence, transcending barriers to connect with our shared humanity. Engaging with different artistic forms cultivates critical thinking, fostering the ability to discern underlying messages, symbolism, and themes. This analytical mindset extends beyond art, equipping us with invaluable skills applicable in various disciplines and aspects of life. Art becomes a powerful medium for self-expression and personal growth, allowing individuals to explore and communicate their emotions, ideas, and identities. It provides an outlet for catharsis, promoting mental well-being and self-discovery. Art stimulates empathy and compassion by exposing us to diverse narratives and experiences, fostering a sense of understanding and bridging divides. It encourages dialogue, tolerance, and acceptance, nurturing a more inclusive and harmonious society. Additionally, the study of art enhances aesthetic sensibilities, enriching sensory experiences and elevating our awareness of the beauty and intricacies of the world. By observing details, appreciating beauty, and finding inspiration in the ordinary, art influences our interactions with nature, architecture, and everyday objects. Embracing the study of art not only brings personal fulfillment but also contributes to the betterment of our collective existence. It serves as a testament to the richness of human expression, inspiring connections and fostering a profound understanding of our shared humanity.&lt;/p&gt;
+
+          </description>
+          <pubDate>Fri, 05 May 2023 00:00:00 +0530</pubDate>
+          <link>http://localhost:4000/art/2023/05/05/studying-art.html</link>
+          <guid isPermaLink="true">http://localhost:4000/art/2023/05/05/studying-art.html</guid>
+          
+          
+          <category>art</category>
+          
+        </item>
+      
+    
+  </channel>
+</rss>
