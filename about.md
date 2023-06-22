@@ -3,10 +3,6 @@ layout: post
 title: About Me
 ---
 
-<p align="center">TL;DR - I write code, take pictures, think thoughts, and make doodles!</p>
-
-<br>
-
 <p>Hi, I’m Rishi. I move slowly and build things. One of the reasons I like building tools is that they were once just an idea in my head when I was diving deep into the void (getting bored), and it’s refreshing to see those ideas taking form.</p>
 
 <p>There is nothing extraordinary about me, but I consider myself to be an enthusiastic learner. I am mostly driven by curiosity, deadlines, and a bit of stress. Sometimes, the factor can also be an unhealthy obsession to see the result or the fear of procrastination. On a bad day, I get to experience everything, all at once.</p>
