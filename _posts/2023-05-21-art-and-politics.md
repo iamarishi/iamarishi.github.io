@@ -1,6 +1,5 @@
 ---
 title:  The Interplay of Art and Politics
-author: Rishi
 categories: art
 layout: post
 ---
